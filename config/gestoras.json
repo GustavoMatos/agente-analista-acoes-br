@@ -1,0 +1,105 @@
+{
+  "gestoras": [
+    {
+      "nome": "Dynamo",
+      "tipo": "acoes",
+      "especialidade": "Value Investing",
+      "url_cartas": "https://www.dynamo.com.br/cartas",
+      "frequencia": "trimestral",
+      "prioridade": 1
+    },
+    {
+      "nome": "Atmos Capital",
+      "tipo": "acoes",
+      "especialidade": "Ações Brasil",
+      "url_cartas": "https://www.atmoscapital.com.br/cartas",
+      "frequencia": "mensal",
+      "prioridade": 1
+    },
+    {
+      "nome": "Brasil Capital",
+      "tipo": "acoes",
+      "especialidade": "Ações Brasil",
+      "url_cartas": "https://www.brasilcapital.com/cartas",
+      "frequencia": "mensal",
+      "prioridade": 1
+    },
+    {
+      "nome": "Absoluto Partners",
+      "tipo": "acoes",
+      "especialidade": "Ações Long Only",
+      "url_cartas": "https://absolutopartners.com.br/cartas",
+      "frequencia": "mensal",
+      "prioridade": 1
+    },
+    {
+      "nome": "Bogari Capital",
+      "tipo": "acoes",
+      "especialidade": "Value Investing",
+      "url_cartas": "https://www.bogaricapital.com.br/cartas",
+      "frequencia": "mensal",
+      "prioridade": 1
+    },
+    {
+      "nome": "Constellation",
+      "tipo": "acoes",
+      "especialidade": "Ações",
+      "url_cartas": "https://constellation.com.br/cartas",
+      "frequencia": "mensal",
+      "prioridade": 1
+    },
+    {
+      "nome": "Indie Capital",
+      "tipo": "acoes",
+      "especialidade": "Ações",
+      "url_cartas": "https://www.indiecapital.com.br/cartas",
+      "frequencia": "mensal",
+      "prioridade": 1
+    },
+    {
+      "nome": "Verde Asset",
+      "tipo": "macro",
+      "especialidade": "Multimercado Macro",
+      "url_cartas": "https://verdeasset.com.br/comunicados",
+      "frequencia": "mensal",
+      "prioridade": 2
+    },
+    {
+      "nome": "SPX Capital",
+      "tipo": "macro",
+      "especialidade": "Multimercado Macro",
+      "url_cartas": "https://www.spxcapital.com.br/publicacoes",
+      "frequencia": "mensal",
+      "prioridade": 2
+    },
+    {
+      "nome": "Truxt",
+      "tipo": "macro",
+      "especialidade": "Macro e Ações",
+      "url_cartas": "https://www.truxt.com.br/conteudos",
+      "frequencia": "mensal",
+      "prioridade": 2
+    },
+    {
+      "nome": "Legacy Capital",
+      "tipo": "macro",
+      "especialidade": "Multimercado Macro",
+      "url_cartas": "https://legacycapital.com.br/cartas",
+      "frequencia": "mensal",
+      "prioridade": 2
+    },
+    {
+      "nome": "Ibiuna",
+      "tipo": "macro",
+      "especialidade": "Multimercado Macro",
+      "url_cartas": "https://www.ibiuna.com/publicacoes",
+      "frequencia": "mensal",
+      "prioridade": 2
+    }
+  ],
+  "config": {
+    "max_idade_carta_dias": 45,
+    "idioma_output": "pt-BR",
+    "incluir_disclaimer": true
+  }
+}
